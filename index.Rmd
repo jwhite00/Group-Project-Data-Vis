@@ -1,10 +1,9 @@
 ---
 title: "Data Visual Report"
-author: "Aishe Memetova, Haotian Bu, Jon White, Vitalii Zakhozhyi"
+author: "Group 4: Aishe Memetova, Haotian Bu, Jon White, Vitalii Zakhozhyi"
 date: "February 20, 2019"
 output: html_document
 ---
-
 Using the Seattle Sound Transit Data of October-November 2015, we will try to see where Link Light Rail riders are coming from.
 
 
