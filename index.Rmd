@@ -11,7 +11,7 @@ Using the Seattle Sound Transit Data of October-November 2015, we will try to se
 
 Loading neccessary packages, calling dataset and preparing it for analysis
 ```{r}
-mydata1=read.csv("https://raw.githubusercontent.com/jwhite00/VisualAnalytics_2_tabularData/master/data/newLinkData.csv")
+mydata1=read.csv("https://raw.githubusercontent.com/jwhite00/Group-Project-Data-Vis/master/Data/newLinkData.csv")
 library(ggplot2)
 library(scales)
 ```
